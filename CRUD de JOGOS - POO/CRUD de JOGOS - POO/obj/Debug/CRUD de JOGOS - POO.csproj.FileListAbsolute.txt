@@ -1,0 +1,12 @@
+C:\MeusProgramas\C#\CRUD de JOGOS - POO\CRUD de JOGOS - POO\bin\Debug\DbJogos.mdf
+C:\MeusProgramas\C#\CRUD de JOGOS - POO\CRUD de JOGOS - POO\bin\Debug\DbJogos_log.ldf
+C:\MeusProgramas\C#\CRUD de JOGOS - POO\CRUD de JOGOS - POO\bin\Debug\CRUD de JOGOS - POO.exe.config
+C:\MeusProgramas\C#\CRUD de JOGOS - POO\CRUD de JOGOS - POO\bin\Debug\CRUD de JOGOS - POO.exe
+C:\MeusProgramas\C#\CRUD de JOGOS - POO\CRUD de JOGOS - POO\bin\Debug\CRUD de JOGOS - POO.pdb
+C:\MeusProgramas\C#\CRUD de JOGOS - POO\CRUD de JOGOS - POO\obj\Debug\CRUD de JOGOS - POO.csprojAssemblyReference.cache
+C:\MeusProgramas\C#\CRUD de JOGOS - POO\CRUD de JOGOS - POO\obj\Debug\CRUD_de_JOGOS___POO.FrmJogo.resources
+C:\MeusProgramas\C#\CRUD de JOGOS - POO\CRUD de JOGOS - POO\obj\Debug\CRUD_de_JOGOS___POO.Properties.Resources.resources
+C:\MeusProgramas\C#\CRUD de JOGOS - POO\CRUD de JOGOS - POO\obj\Debug\CRUD de JOGOS - POO.csproj.GenerateResource.cache
+C:\MeusProgramas\C#\CRUD de JOGOS - POO\CRUD de JOGOS - POO\obj\Debug\CRUD de JOGOS - POO.csproj.CoreCompileInputs.cache
+C:\MeusProgramas\C#\CRUD de JOGOS - POO\CRUD de JOGOS - POO\obj\Debug\CRUD de JOGOS - POO.exe
+C:\MeusProgramas\C#\CRUD de JOGOS - POO\CRUD de JOGOS - POO\obj\Debug\CRUD de JOGOS - POO.pdb
